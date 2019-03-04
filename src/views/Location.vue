@@ -12,16 +12,21 @@
             <b>Monday</b>: 6pm-9pm
           </p>
           <p>Open any day I'm home</p>
-          <p>Please call if you want to get fat!</p>
+          <p>Please call if you need help getting in</p>
         </div>
         <div class="col">
           <h2>Location</h2>
           <p>8370 Greensbor Drive #412
             <br>McLean, VA 22013
           </p>
+          <p>
+            Go to the gate on the left when arriving and
+            let them know you're a guest for building 4 unit 412.
+            The guard should give you a pass. Park anywhere.
+          </p>
         </div>
         <div class="col">
-          <h2>Reservations</h2>
+          <h2>Contact</h2>
           <p>
             <b>Phone</b>: 540.326.5542
           </p>
@@ -76,7 +81,7 @@ p {
 
 article {
   margin: 100px auto;
-  width: 758px;
+  width: 750px;
 }
 .gmap {
   margin: 0 auto;
@@ -91,15 +96,13 @@ iframe {
 }
 
 .col {
+  flex: 1 0 0;
   padding-bottom: 40px;
 }
 
 @media only screen and (max-width: 800px) {
   .info {
-    flex-wrap: wrap;
-  }
-  .col {
-    width: 100%;
+    display: block;
   }
 
   article {

@@ -109,12 +109,6 @@ section {
   }
 }
 
-@media only screen and (max-device-width: 1366px) {
-  .parallax {
-    background-attachment: scroll;
-  }
-}
-
 article {
   text-align: center;
 }
@@ -132,5 +126,22 @@ h1 {
 }
 h2 {
   font-size: 70px;
+}
+
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .hero {
+    h1 {
+      font-size: 64px;
+    }
+    h2 {
+      font-size: 36px;
+    }
+  }
 }
 </style>
