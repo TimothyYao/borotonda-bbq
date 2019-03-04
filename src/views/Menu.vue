@@ -51,7 +51,7 @@ export default {
           {
             header: {
               main: 'Pork',
-              subheading: '牛肉',
+              subheading: '猪肉',
             },
             items: [
               { main: '3gs | 삼겹살', subheading: '3-layer pork belly' },
