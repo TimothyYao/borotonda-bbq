@@ -11,12 +11,11 @@
           <p>
             <b>Monday</b>: 6pm-9pm
           </p>
-          <p>Open any day I'm home</p>
           <p>Please call if you need help getting in</p>
         </div>
         <div class="col">
           <h2>Location</h2>
-          <p>8370 Greensbor Drive #412
+          <p>8370 Greensboro Drive #412
             <br>McLean, VA 22013
           </p>
           <p>

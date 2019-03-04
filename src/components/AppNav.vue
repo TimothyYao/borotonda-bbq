@@ -154,4 +154,10 @@ h1 {
     display: block;
   }
 }
+
+@media only screen and (min-width: 801px) {
+  .sidebar {
+    display: none;
+  }
+}
 </style>
