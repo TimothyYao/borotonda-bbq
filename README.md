@@ -1,29 +1,35 @@
 # brotonda-kbbq
 
 ## Project setup
-```
-npm install
+
+```sh
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
-npm run serve
+
+```sh
+yarn serve
 ```
 
 ### Compiles and minifies for production
-```
-npm run build
+
+```sh
+yarn build
 ```
 
 ### Run your tests
-```
-npm run test
+
+```sh
+yarn test
 ```
 
 ### Lints and fixes files
-```
-npm run lint
+
+```sh
+yarn lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).

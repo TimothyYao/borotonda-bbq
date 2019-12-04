@@ -102,7 +102,7 @@ section {
 
 .hero {
   height: 100vh;
-  background-image: url('https://scontent-iad3-1.cdninstagram.com/vp/b71dd42bbf5870a3ca92c3f18416bb99/5D18ABB7/t51.2885-15/e35/12749927_456637474542467_44250591_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com');
+  background-image: url('https://cdn.vox-cdn.com/thumbor/nJTbRCB0tIT47nChPfAvfWlg8oo=/0x0:6000x4000/1200x900/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/56421833/Cote_Steakhouse_for_Eater_by_Daniel_Krieger_Photography_1040.1504038937.jpg');
   h1,
   h2 {
     color: white;
