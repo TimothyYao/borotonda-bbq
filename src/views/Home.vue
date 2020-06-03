@@ -102,7 +102,7 @@ section {
 
 .hero {
   height: 100vh;
-  background-image: url('https://cdn.vox-cdn.com/thumbor/nJTbRCB0tIT47nChPfAvfWlg8oo=/0x0:6000x4000/1200x900/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/56421833/Cote_Steakhouse_for_Eater_by_Daniel_Krieger_Photography_1040.1504038937.jpg');
+  background-image: url('https://www.touristsecrets.com/wp-content/uploads/2019/06/1-Featured-image-Korean-BBQ-by-arjieljosephfg-on-Instagram.jpg');
   h1,
   h2 {
     color: white;
